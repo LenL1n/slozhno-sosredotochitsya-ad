@@ -13,6 +13,7 @@
   --accent-color: #FF8DCB;
   --text-color: #353430;
   --decor-color: #353430;
+  --text-decor-color: #353430;
 }
 
 .theme-light .page {
@@ -33,6 +34,7 @@
     --accent-color: #FF8DCB;
     --text-color: #353430;
     --decor-color: #353430;
+    --text-decor-color: #353430;
   }
 
   .header__rec,
